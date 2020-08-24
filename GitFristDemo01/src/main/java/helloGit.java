@@ -13,5 +13,7 @@ public class helloGit {
 
 		System.out.println("创建分支");
 		System.out.println("创建分支2");
+
+		System.out.println("主干添加");
 	}
 }
